@@ -55,7 +55,7 @@ cargo.push(_aroptions, (err, _arresult)=>{
 ```
 
 ## Install
-`npm install stream_queue_cargo`
+`npm install https://github.com/pieropatron/stream_queue_cargo`
 
 ## API
 
