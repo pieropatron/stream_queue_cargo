@@ -1,0 +1,28 @@
+{
+  "name": "stream_queue_cargo",
+  "version": "1.0.0",
+  "description": "queue and cargo based on streams",
+  "main": "lib.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pieropatron/stream_queue_cargo.git"
+  },
+  "keywords": [
+    "queue",
+    "cargo",
+    "nodejs",
+    "streams"
+  ],
+  "author": "pieropatron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pieropatron/stream_queue_cargo/issues"
+  },
+  "homepage": "https://github.com/pieropatron/stream_queue_cargo#readme"
+}
