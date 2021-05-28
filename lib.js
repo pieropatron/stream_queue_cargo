@@ -101,7 +101,7 @@ class QueueBase {
 			let _callback = function(error, result){
 				process.nextTick(callback, error, result);
 			};
-			await __pushOptionsAny.call(this, options).then(result=>{
+			__pushOptionsAny.call(this, options).then(result=>{
 				_callback(null, result);
 			}, _callback);
 		} else {
